@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @blakedgardiner
 - 👀 Geospatial Developer / Analyst - Perth, Western Australia
 - 🌱 Python, .NET, Javascript
-- 💞️ 
 - 📫 blake.gardiner@jacobs.com
 
 <!---
